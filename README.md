@@ -4,8 +4,8 @@ Juego de Laberintos.
 
 ## Integrantes del equipo
 
-Aitor Sánchez San Martín. aitor.ssanmartin@alumnos.upm.es
-Javier Garcés Bravo.   j.garcesb@alumnos.upm.es
+Aitor Sánchez San Martín. aitorsanchezz.
+Javier Garcés Bravo.   javisgarces.
 Adrián López Bolaños.   
 
 ## Objetivos del trabajo
